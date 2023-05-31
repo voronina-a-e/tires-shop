@@ -6,5 +6,4 @@ import org.example.wheel.Wheel;
         public abstract void nameDisk();                          //абстрактный метод для вывода дисков по форме из задания
         public abstract String toString();                        //абстрактный метод для переопределения toString
 
-
 }
